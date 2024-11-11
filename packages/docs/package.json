@@ -1,7 +1,7 @@
 {
   "name": "@hly-h/invis-ui-docs",
   "type": "module",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "description": "组件库文档",
   "license": "ISC",

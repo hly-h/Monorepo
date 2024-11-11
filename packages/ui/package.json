@@ -2,7 +2,6 @@
   "name": "invis-ui",
   "type": "module",
   "version": "0.2.3",
-  "private": true,
   "description": "Le UI invisibili",
   "license": "MIT",
   "keywords": [],

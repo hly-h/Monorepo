@@ -2,7 +2,6 @@
   "name": "invis-ui-docs",
   "type": "module",
   "version": "1.0.0",
-  "private": true,
   "description": "组件库文档",
   "license": "ISC",
   "keywords": [],
